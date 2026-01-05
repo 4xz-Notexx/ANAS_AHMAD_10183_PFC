@@ -23,7 +23,7 @@ int main()
     char str[100], rev[100];
 
     printf("Enter a string: ");
-    gets(str); // (Allowed in college projects)
+    gets(str); 
 
     reverseString(str, rev);
 
@@ -41,3 +41,4 @@ int main()
 
     return 0;
 }
+
